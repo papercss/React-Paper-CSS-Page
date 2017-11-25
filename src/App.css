@@ -1,1 +1,23 @@
+.App {
+  padding: 0 4%;
+  background: #fff;
+  max-width: 960px;
+  margin: 6% auto;
+}
 
+body {
+  background-image: url("/img/geometry2.png");
+}
+
+.App section {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.App .row .col {
+  background-color: #eee;
+}
+
+.App .row .col:nth-child(even) {
+  background-color: #ddd;
+}
