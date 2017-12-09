@@ -2,7 +2,7 @@
   "name": "react-paper-css-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://banjerr.github.io/React-Paper-CSS-Page",
+  "homepage": "https://papercss.github.io/React-Paper-CSS-Page",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.1.1",
